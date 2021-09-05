@@ -8,8 +8,8 @@ VS Code Extensions worth using for a web developer
         <th>Publisher Name</th>
     </tr>
     <tr>
-        <th>Auto Import</th>
-        <th>Steoates</th>
+        <td>Auto Import</td>
+        <td>Steoates</td>
     </tr>
     <tr>
         <td>Code Spell Checker</td>
