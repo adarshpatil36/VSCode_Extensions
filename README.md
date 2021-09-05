@@ -1,33 +1,50 @@
 # VSCode_Extensions
 
-Extension Name                  Publisher Name
+VS Code Extensions worth using for a web developer
+
 <table>
     <tr>
-        <th>Extension Name</th>
-        <th>Publisher Name</th>
+        <th>Auto Import</th>
+        <th>Steoates</th>
     </tr>
     <tr>
-        <td>Extension Name</td>
-        <td>Publisher Name</td>
+        <td>Code Spell Checker</td>
+        <td>Street Side Software</td>
     </tr>
     <tr>
-        <td>Extension Name</td>
-        <td>Publisher Name</td>
+        <td>ESLint</td>
+        <td>Drink Baeumer</td>
     </tr>
     <tr>
-        <td>Extension Name</td>
-        <td>Publisher Name</td>
+        <td>GitLens</td>
+        <td>Eric Amodio</td>
     </tr>
     <tr>
-        <td>Extension Name</td>
-        <td>Publisher Name</td>
+        <td>Path Intellisense</td>
+        <td>Christian Kohler</td>
     </tr>
     <tr>
-        <td>Extension Name</td>
-        <td>Publisher Name</td>
+        <td>Prettier - Code Formatter</td>
+        <td>Prettier</td>
     </tr>
     <tr>
-        <td>Extension Name</td>
-        <td>Publisher Name</td>
-    </tr>    
+        <td>Reload</td>
+        <td>Natque</td>
+    </tr>
+    <tr>
+        <td>SonarLint</td>
+        <td>SonarSource</td>
+    </tr>
+    <tr>
+        <td>TSLint</td>
+        <td>Microsoft</td>
+    </tr>
+    <tr>
+        <td>stylelint</td>
+        <td>stylelint</td>
+    </tr>
+    <tr>
+        <td>Mark Down All in One</td>
+        <td>Yu Zang</td>
+    </tr>
 </table>
