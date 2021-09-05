@@ -4,6 +4,10 @@ VS Code Extensions worth using for a web developer
 
 <table>
     <tr>
+        <th>Extension Name</th>
+        <th>Publisher Name</th>
+    </tr>
+    <tr>
         <th>Auto Import</th>
         <th>Steoates</th>
     </tr>
