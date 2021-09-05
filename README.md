@@ -5,10 +5,29 @@ Extension Name                  Publisher Name
     <tr>
         <th>Extension Name</th>
         <th>Publisher Name</th>
-    <tr>
+    </tr>
     <tr>
         <td>Extension Name</td>
         <td>Publisher Name</td>
+    </tr>
     <tr>
-    
+        <td>Extension Name</td>
+        <td>Publisher Name</td>
+    </tr>
+    <tr>
+        <td>Extension Name</td>
+        <td>Publisher Name</td>
+    </tr>
+    <tr>
+        <td>Extension Name</td>
+        <td>Publisher Name</td>
+    </tr>
+    <tr>
+        <td>Extension Name</td>
+        <td>Publisher Name</td>
+    </tr>
+    <tr>
+        <td>Extension Name</td>
+        <td>Publisher Name</td>
+    </tr>    
 </table>
